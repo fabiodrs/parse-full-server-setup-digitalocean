@@ -18,7 +18,7 @@ Works with smallest Digital Ocean plans. You need to follow the instructions. Si
 ```
 sudo apt-get update
 sudo apt-get -y install git bc
-git clone https://github.com/prodigy2m/parse-full-server-setup-digitalocean.git
+git clone https://github.com/fabiodrs/parse-full-server-setup-digitalocean.git
 sh parse-full-server-setup-digitalocean/parse-setup.sh
 ```
 
